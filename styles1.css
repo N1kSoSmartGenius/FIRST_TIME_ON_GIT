@@ -25,6 +25,13 @@ h1 {
     font-size: 22pt;
     font-family: Arial, Helvetica, sans-serif
 }
+
+.paragraph-4 {
+    font-size : 24px;
+    text-shadow: green 0 0 20px;
+    justify-content: center;
+    display : flex
+}
 /* background
 font-size
 color
@@ -32,3 +39,5 @@ border
 border-radius
 font-weight
 font-family */
+
+

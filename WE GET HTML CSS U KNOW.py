@@ -1,1 +1,0 @@
-print('THANK YOU PYTHON')

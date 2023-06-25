@@ -1,1 +1,1 @@
-print('niggers')
+print('THANK YOU PYTHON')
